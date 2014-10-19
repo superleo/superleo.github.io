@@ -1,0 +1,29 @@
+from http://gansteed.github.io/
+强烈建议:
+
+1.官网：https://docs.docker.com/
+
+2.命令行：https://docs.docker.com/reference/commandline/cli/
+
+3.周报：https://blog.docker.com/docker-weekly-archives/
+
+4.nkode.io收集的Docker资料：http://www.nkode.io/2014/08/24/valuable-docker-links.html
+
+5.Jonathan Bergknoff的博客：http://jonathan.bergknoff.com/journal
+
+6.Jason Wilder 的 Blog：http://jasonwilder.com/
+
+中文的:
+
+1.Docker -- 从入门到实践：http://yeasy.gitbooks.io/docker_practice/content/
+
+2.InfoQ 上的Docker专题：http://www.infoq.com/cn/dockers
+
+3.segmentfault上的Docker相关文章：http://segmentfault.com/t/docker/blogs
+
+技巧篇:
+
+1.在已运行的Container上如何暴露新的端口？http://stackoverflow.com/questions/19897743/exposing-a-port-on-a-live-docker-container
+
+2.在Docker中运行GUI程序：http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/
+
